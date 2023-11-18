@@ -1,5 +1,4 @@
 ### Hi there 👋 My name is Jihoon.
-### I am 22 years old
 
 <!--
 **JihoonChoi1/JihoonChoi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
