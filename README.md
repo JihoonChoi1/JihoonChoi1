@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jihoon Choi
+# Hi!! I'm Jihoon Choi
 
 I'm a Computer Science student at **UBC** currently looking for **co-op and internship opportunities**.
 
